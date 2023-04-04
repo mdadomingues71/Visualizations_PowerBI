@@ -1,2 +1,5 @@
-# Viz_Gest-o_Or-amento
-Vizualização Power BI
+# Viz_Gestão de Orçamento
+Visualização Power BI
+
+Visualização gestão de orçamento gerada no Power BI
+
